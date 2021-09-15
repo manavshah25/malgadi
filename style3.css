@@ -1,0 +1,35 @@
+body {
+    padding: 20px;
+    background-color: rgb(214, 165, 165);
+}
+
+.admin {
+    text-align: center;
+    font-weight: bold;
+}
+
+span {
+    position: relative;
+    left: 45%;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+table th {
+    margin-left: 10px;
+}
+
+td,
+th {
+    padding: 50px 50px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    border-radius: 2px;
+}
+
+#siginout {
+    position: absolute;
+    left: 90%;
+    margin-bottom: 70px;
+}
